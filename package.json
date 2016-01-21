@@ -1,0 +1,23 @@
+{
+  "name": "@chadrm9/npm",
+  "version": "1.0.0",
+  "description": "This is just a test project for learning npm!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadrm9/npm.git"
+  },
+  "author": "CRM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chadrm9/npm/issues"
+  },
+  "homepage": "https://github.com/chadrm9/npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
+}
